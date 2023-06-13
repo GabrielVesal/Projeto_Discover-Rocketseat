@@ -1,14 +1,9 @@
+
+<p align="center">
+  <img alt="License" src="https://github.com/GabrielVesal/Projeto_Discover-Rocketseat/blob/5d28d46b80a7b0f4eb8f853181ed8f8d194cdd2f/previewl.jpg.jpg">
+</p>
+
 # Projeto Discover Rocketseat
-
-
-
-
-
-
-
-
-
-
 
 🚀 Tecnologias
 Esse projeto foi desenvolvido com as seguintes tecnologias:
