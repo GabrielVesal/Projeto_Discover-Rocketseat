@@ -21,4 +21,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ###
 O DevLinks é um agregador de links para usar como cartão de visitas online
 - [Acesse o projeto finalizado, online](https://GabrielVesal.github.io/Projeto_Discover-Rocketseat)
+  ###
+Certificado de conclusâo do curso
+  (https://app.rocketseat.com.br/certificates/b0a85a7f-421f-4f65-8177-81ef246ff934)
  
