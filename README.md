@@ -7,7 +7,7 @@
 
 🚀 Tecnologias
 ####
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+Esse projeto foi desenvolvido utilizando:
 <div>
     <img height='50em' src="https://cdn.worldvectorlogo.com/logos/html-1.svg"svg">
     <img height='50em' src="https://cdn.worldvectorlogo.com/logos/css-3.svg">
