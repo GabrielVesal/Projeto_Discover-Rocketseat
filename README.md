@@ -14,7 +14,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
     <img height='50em' src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg">                                                               
     <img height='50em' src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1667px-Figma-logo.svg.png">
     <img height='50em' src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"svg">
-    <img height='50em' src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg">  
+    
     
 
 💻 Projeto
